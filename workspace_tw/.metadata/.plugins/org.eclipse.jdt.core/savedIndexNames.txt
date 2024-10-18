@@ -1,11 +1,3 @@
-INDEX VERSION 1.134+C:\Users\pc\Desktop\workspace_tw\.metadata\.plugins\org.eclipse.jdt.core
-3271193799.index
+INDEX VERSION 1.134+C:\Users\pc\Desktop\JavaStudy\workspace_tw\.metadata\.plugins\org.eclipse.jdt.core
 2988258402.index
-2973621156.index
-3413725848.index
-910327622.index
-2892742970.index
-1865797976.index
-2940940028.index
 2633689176.index
-3812875719.index
