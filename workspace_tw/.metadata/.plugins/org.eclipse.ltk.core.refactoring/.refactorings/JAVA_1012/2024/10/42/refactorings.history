@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;JAVA_1012.Memberinit&apos; to &apos;MemberInit&apos;&#x0D;&#x0A;- Original project: &apos;JAVA_1012&apos;&#x0D;&#x0A;- Original element: &apos;JAVA_1012.Memberinit&apos;&#x0D;&#x0A;- Renamed element: &apos;JAVA_1012.MemberInit&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Memberinit&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;JAVA_1012{Memberinit.java[Memberinit" matchStrategy="1" name="MemberInit" qualified="false" references="true" similarDeclarations="false" stamp="1729156814008" textual="false" version="1.0"/>
+</session>

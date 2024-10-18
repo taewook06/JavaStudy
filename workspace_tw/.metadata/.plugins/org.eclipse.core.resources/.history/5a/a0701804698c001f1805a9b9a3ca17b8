@@ -1,0 +1,7 @@
+package JAVA_1012;
+
+public class Memberinit {
+	String name;
+	int age;
+	int grade;
+}
