@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="JAVA_1006.Student"/>
     <fullyQualifiedTypeName name="JAVA_1006.MovieReview"/>
     <fullyQualifiedTypeName name="JAVA_1006.ProductOrder"/>
     <fullyQualifiedTypeName name="JAVA_1006.Member"/>
     <fullyQualifiedTypeName name="JAVA_1006.Method"/>
     <fullyQualifiedTypeName name="JAVA_1006.Overloading"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="JAVA_1012.Memberinit"/>
+    <fullyQualifiedTypeName name="generics.genericBox"/>
+    <fullyQualifiedTypeName name="javax.imageio.metadata.IIOMetadataFormatImpl"/>
+    <fullyQualifiedTypeName name="collection.HashMap"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="board.Post"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
 </qualifiedTypeNameHistroy>
