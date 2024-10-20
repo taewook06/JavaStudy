@@ -4,5 +4,5 @@
 /**
  * 
  */
-module JAVA_1019 {
+module java_1019 {
 }
