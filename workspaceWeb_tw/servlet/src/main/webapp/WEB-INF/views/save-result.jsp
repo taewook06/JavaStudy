@@ -8,12 +8,12 @@
 </head>
 <body>
 성공
-<Ui>
-	<li>id = ${member.id}</li>
-	<li>username = ${member.username}</li>
+<ul>
+	<li>id=${member.id}</li>
+	<li>username=${member.username}</li>
 	<li>id=${member.age}</li>
-</Ui>
+</ul>
 
-<a href="/index.html"></a>
+<a href="/index.html">메인</a>
 </body>
 </html>

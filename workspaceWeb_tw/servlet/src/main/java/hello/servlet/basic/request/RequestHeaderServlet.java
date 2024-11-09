@@ -13,12 +13,8 @@ public class RequestHeaderServlet extends HttpServlet{
 	
 	@Override
 	protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		
-		
 		printStartLine(request);
-		
 	}
-	
 	
 	private void printStartLine(HttpServletRequest request) {
 		System.out.println("시작");
