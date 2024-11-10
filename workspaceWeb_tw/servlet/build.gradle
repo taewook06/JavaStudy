@@ -34,6 +34,7 @@ dependencies {
     // JSP에서 HttpServlet을 참조하는 용도 (다만 톰캣에서 이미 javax.servelt-api 포함하고 있어서 불필요함
     implementation 'org.apache.tomcat.embed:tomcat-embed-jasper' // JSP 컴파일용 Jasper 엔진
     implementation 'javax.servlet:jstl' // JSTL 라이브러리
+    implementation 'org.apache.tomcat.embed:tomcat-embed-el' 
     
     // 롬복 설정
     compileOnly 'org.projectlombok:lombok'
@@ -47,7 +48,6 @@ dependencies {
 // (선택사항) Project Clean : 간혹 캐시된 빌드로 인한 문제 없도록 하기 위함
 // Refresh Gradle Project : Gradle 설정을 프로젝트에 반영
 // 프로젝트 재실행 및 테스트 : 설정 적용 확인
-
 
 tasks.named('test') {
     useJUnitPlatform()
